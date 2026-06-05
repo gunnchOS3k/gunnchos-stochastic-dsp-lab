@@ -1,4 +1,4 @@
-from oulu_dsp.signals import tone, awgn
+from gunnchos_dsp.signals import tone, awgn
 import numpy as np
 
 def test_tone():

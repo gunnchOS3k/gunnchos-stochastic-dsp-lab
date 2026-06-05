@@ -1,4 +1,4 @@
-from oulu_dsp.ofdm import ofdm_mod
+from gunnchos_dsp.ofdm import ofdm_mod
 import numpy as np
 
 def test_ofdm():

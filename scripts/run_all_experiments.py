@@ -1,9 +1,9 @@
 import json
 from pathlib import Path
 import numpy as np
-from oulu_dsp.signals import tone, awgn
-from oulu_dsp.matched_filter import matched_filter
-from oulu_dsp.ofdm import ofdm_mod
+from gunnchos_dsp.signals import tone, awgn
+from gunnchos_dsp.matched_filter import matched_filter
+from gunnchos_dsp.ofdm import ofdm_mod
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'results'

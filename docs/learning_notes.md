@@ -2,4 +2,4 @@
 
 Core DSP and stochastic processes for wireless receivers and OFDM.
 
-Not affiliated with University of Oulu. Not accepted PhD status.
+Not affiliated with target wireless communications engineering programs. Not accepted PhD status.

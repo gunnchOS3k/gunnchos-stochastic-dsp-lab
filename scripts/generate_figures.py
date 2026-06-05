@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
-from oulu_dsp.signals import tone, awgn
+from gunnchos_dsp.signals import tone, awgn
 
 ROOT = Path(__file__).resolve().parents[1]
 FIG = ROOT / 'results/figures'
