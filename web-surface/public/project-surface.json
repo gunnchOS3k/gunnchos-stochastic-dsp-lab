@@ -1,0 +1,21 @@
+{
+  "repo": "gunnchos-stochastic-dsp-lab",
+  "productName": "Stochastic DSP lab",
+  "family": "Research",
+  "classification": "STATIC_RESEARCH_SURFACE_WORKER",
+  "acceptedSha": "339739647eed0ac58011fd6d1636d3cd40448397",
+  "status": "STAGING_WORKER",
+  "summary": "Hands-on lab material for DSP, stochastic signals, OFDM, filtering, and detection.",
+  "capabilities": [
+    "Read the lab topics",
+    "Open the source repository"
+  ],
+  "limitations": [
+    "Lab exercises are not a certified course",
+    "This Worker does not run the notebooks"
+  ],
+  "sourceUrl": "https://github.com/gunnchOS3k/gunnchos-stochastic-dsp-lab",
+  "returnUrlEnv": "GUNNCHOS_PORTAL_URL",
+  "returnUrl": "https://gunnchos-site.gunnchos-finds.workers.dev",
+  "workerName": "gunnchos-stochastic-dsp"
+}
