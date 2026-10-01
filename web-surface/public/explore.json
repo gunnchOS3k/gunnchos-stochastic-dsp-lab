@@ -99,5 +99,6 @@
   "methods": "Methods are the educational functions in src/gunnchos_dsp: matched_filter, ofdm_mod, and kalman_1d. # DSP experiments  Matched filter + OFDM smoke PASS No measured spectrum or field recording is stored beside that smoke line.",
   "cards": [],
   "runtime_mode": "PRECOMPUTED",
-  "runtime_boot": false
+  "runtime_boot": false,
+  "evidence_class": "SIMULATED"
 }
